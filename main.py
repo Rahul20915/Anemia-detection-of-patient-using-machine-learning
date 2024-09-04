@@ -102,8 +102,8 @@ def main():
 
         st.write("The dataset consists of 1421 samples with six attributes: gender, hemoglobin, mean corpuscular hemoglobin (MCH), mean corpuscular hemoglobin concentration (MCHC), mean corpuscular volume (MCV), and result .")
         st.write("On conducting six different supervised learning algorithms, Random Forest was found to outperform the others. Hence, this app is built using Random Forest for anemia prediction.")
-        st.markdown("<p style='text-align: left;'> Get complete code at <a href='https://github.com/Rahulkr2091/Anemia-Detection-for-Patient-'>GitHub Repo </a>  </p>", unsafe_allow_html=True)
-    st.markdown("<p style='text-align: center;'> Brought to you with ❤ by <a href='https://github.com/Rahulkr2091'>Rahul Kumar</a>  </p>", unsafe_allow_html=True)
+        st.markdown("<p style='text-align: left;'> Get complete code at <a href='https://github.com/Rahul20915/Anemia-detection-of-patient-using-machine-learning/tree/main'>GitHub Repo </a>  </p>", unsafe_allow_html=True)
+    st.markdown("<p style='text-align: center;'> Brought to you with ❤ by <a href='https://github.com/Rahul20915'>Rahul Kumar</a>  </p>", unsafe_allow_html=True)
         
 
 
